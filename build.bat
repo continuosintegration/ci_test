@@ -1,1 +1,2 @@
-::building c++ project
+g++ main.cpp
+./a.out
